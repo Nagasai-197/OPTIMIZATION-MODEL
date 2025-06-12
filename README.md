@@ -103,3 +103,5 @@ jupyter notebook transportation_optimization.ipynb
 
 ## output
 
+![Image](https://github.com/user-attachments/assets/b7f2533a-e998-4c5c-bf2c-b15c48138a71)
+
